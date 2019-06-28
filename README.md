@@ -21,3 +21,11 @@ E-mail authentification with Firebase
   - When one of the players finishes, both of them learn about this and the game ends
   - When one player presses 'Give Up' button, the other player wins
   - When one player sings out, the other player wins
+  
+### Connection
+
+<img src="https://raw.githubusercontent.com/toma-s/reversi/master/screenshots/connect-pending.png" height="500px">
+ 
+### Playground
+
+<img src="https://raw.githubusercontent.com/toma-s/reversi/master/screenshots/playground.png" height="500px">
